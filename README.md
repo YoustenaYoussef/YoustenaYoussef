@@ -1,7 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact👋 Hi, I'm Youstina Youssef!<br><br>💻 A Computer Science graduate and Full Stack Developer specializing in .NET and Angular.<br><br>🚀 I recently completed a 9-month ITI professional training program, where I worked on real-world projects and strengthened my skills in building web applications.<br><br>🛠️ Tech Stack: C#, ASP.NET Core, Web API, Angular, SQL Server, Entity Framework Core, and REST APIs.<br><br>🌱 I'm passionate about problem-solving, writing clean code, and continuously learning new technologies.<br><br>🤝 Always open to collaboration, learning opportunities, and building impactful projects.
+👩‍💻 I'm a Computer Science graduate and Full Stack Developer specializing in .NET and Angular.
 
+🎓 ITI graduate with a 9-month professional training experience in Full Stack Development and BI-Infused CRM.
 
+🛠️ Tech Stack: C#, ASP.NET Core, Web API, Angular, SQL Server, Entity Framework Core, and REST APIs.
+
+🌱 Passionate about problem-solving, clean code, and continuous learning.
+
+🤝 Open to collaboration, knowledge sharing, and building impactful projects.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/youstenayoussef/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youstinayossef747@gmail.com) 
 
